@@ -75,9 +75,11 @@ Ian Grigg, Partner: A financial cryptographer who has been building cryptographi
 
 # References 
 https://www.cryptocompare.com/api/data/coinsnapshotfullbyid/?id=#####
+
 id:321992
+
 id: 166503
 
 [CardanoLogo]: https://www.cryptocompare.com/media/12318177/ada.png
-[EOSLogo]: https://www.cryptocompare.com/media/1383652/eos_1.png
 
+[EOSLogo]: https://www.cryptocompare.com/media/1383652/eos_1.png
